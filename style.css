@@ -12,3 +12,6 @@ body{
 .button:hover{
     background-color:orange;
 }
+ul{
+    list-style-type: none;
+}
